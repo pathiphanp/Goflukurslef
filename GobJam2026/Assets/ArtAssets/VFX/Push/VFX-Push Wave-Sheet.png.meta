@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: f8f9263fc89b4a44ca9d8f2b12ffce85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2625476936632532253
+    second: VFX-Push Wave-Sheet_0
+  - first:
+      213: 3117023836043884182
+    second: VFX-Push Wave-Sheet_1
+  - first:
+      213: -1381524329521684132
+    second: VFX-Push Wave-Sheet_2
+  - first:
+      213: 7436371366852901495
+    second: VFX-Push Wave-Sheet_3
+  - first:
+      213: 4774661211848204028
+    second: VFX-Push Wave-Sheet_4
+  - first:
+      213: -2904379818333876217
+    second: VFX-Push Wave-Sheet_5
+  - first:
+      213: 3479743663730147513
+    second: VFX-Push Wave-Sheet_6
+  - first:
+      213: -7948422557470183113
+    second: VFX-Push Wave-Sheet_7
+  - first:
+      213: 730174995390840195
+    second: VFX-Push Wave-Sheet_8
+  - first:
+      213: -7019334397939918322
+    second: VFX-Push Wave-Sheet_9
+  - first:
+      213: -5695140338208353279
+    second: VFX-Push Wave-Sheet_10
+  - first:
+      213: -1563460652677635757
+    second: VFX-Push Wave-Sheet_11
+  - first:
+      213: 2721451720491092267
+    second: VFX-Push Wave-Sheet_12
+  - first:
+      213: -4704101369875792138
+    second: VFX-Push Wave-Sheet_13
+  - first:
+      213: 7496297459671299924
+    second: VFX-Push Wave-Sheet_14
+  - first:
+      213: -6135373440223466341
+    second: VFX-Push Wave-Sheet_15
+  - first:
+      213: 7136987044921720274
+    second: VFX-Push Wave-Sheet_16
+  - first:
+      213: 7907361820535601726
+    second: VFX-Push Wave-Sheet_17
+  - first:
+      213: -9204707162440473963
+    second: VFX-Push Wave-Sheet_18
+  - first:
+      213: -3300837696662446771
+    second: VFX-Push Wave-Sheet_19
+  - first:
+      213: 4481405916069403523
+    second: VFX-Push Wave-Sheet_20
+  - first:
+      213: 3360394715367324330
+    second: VFX-Push Wave-Sheet_21
+  - first:
+      213: 3318728734466873484
+    second: VFX-Push Wave-Sheet_22
+  - first:
+      213: 6331410355003107561
+    second: VFX-Push Wave-Sheet_23
+  - first:
+      213: 9029367653895200096
+    second: VFX-Push Wave-Sheet_24
+  - first:
+      213: -1438903970672719539
+    second: VFX-Push Wave-Sheet_25
+  - first:
+      213: 5092798003462238869
+    second: VFX-Push Wave-Sheet_26
+  - first:
+      213: -7035058219343225743
+    second: VFX-Push Wave-Sheet_27
+  - first:
+      213: -7925719515517374626
+    second: VFX-Push Wave-Sheet_28
+  - first:
+      213: -8950406817004144959
+    second: VFX-Push Wave-Sheet_29
+  - first:
+      213: -8311131110552582820
+    second: VFX-Push Wave-Sheet_30
+  - first:
+      213: 8864661532477737141
+    second: VFX-Push Wave-Sheet_31
+  - first:
+      213: 6183090632284135877
+    second: VFX-Push Wave-Sheet_32
+  - first:
+      213: 319121861624772007
+    second: VFX-Push Wave-Sheet_33
+  - first:
+      213: -6998682304837981541
+    second: VFX-Push Wave-Sheet_34
+  - first:
+      213: -3112036277230490811
+    second: VFX-Push Wave-Sheet_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX-Push Wave-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d76fd0d519f6420800000000000000
+      internalID: 2625476936632532253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX-Push Wave-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69632d70aa4e14b20800000000000000
+      internalID: 3117023836043884182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX-Push Wave-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51ec4221f6d3dce0800000000000000
+      internalID: -1381524329521684132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX-Push Wave-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a372bcb5c433760800000000000000
+      internalID: 7436371366852901495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX-Push Wave-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe5c0f2311034240800000000000000
+      internalID: 4774661211848204028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX-Push Wave-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700556b71f191b7d0800000000000000
+      internalID: -2904379818333876217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8ef821263cfa4c64ea7ac3ae1b5561d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":320.0,"y":320.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      VFX-Push Wave-Sheet_0: 2625476936632532253
+      VFX-Push Wave-Sheet_1: 3117023836043884182
+      VFX-Push Wave-Sheet_2: -1381524329521684132
+      VFX-Push Wave-Sheet_3: 7436371366852901495
+      VFX-Push Wave-Sheet_4: 4774661211848204028
+      VFX-Push Wave-Sheet_5: -2904379818333876217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
